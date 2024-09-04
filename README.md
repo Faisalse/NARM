@@ -34,7 +34,7 @@
 </p>
 <h2>Follow these steps to reproduce the models</h2>
 
-
+<ul>
 <li>Download <a href="https://www.dropbox.com/sh/n281js5mgsvao6s/AADQbYxSFVPCun5DfwtsSxeda?dl=0" target="_blank">Yoochoose</a> dataset, unzip it and put the “yoochoose-clicks.dat” file into the “data” directory/folder. </li>
 <li>Run this command to reproduce the experiments for the NARM and baseline models on the shorter version of the Yoochoose dataset: <code>python run_experiments_for_NARM_And_baseline_models.py --dataset yoochoose1_64</code> and run the following command to create the experiments for the larger version of the Yoochoose dataset <code>python run_experiments_for_NARM_And_baseline_models.py --dataset yoochoose1_4</code>  </li>
   
